@@ -1,0 +1,38 @@
+h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    padding: 20px;
+    margin: 0px auto;
+    width: 80%;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    width: 50%;
+}
+p {
+    font-size: 14px;
+    
+}
+a{
+    color: greenyellow;
+    text-decoration: none;
+}
+a:hover{
+    background-color: greenyellow;
+    color: black;
+}
+table,th,  td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: #404040;
+    color: #ccc;
+}
+td, th{
+    padding: 5px;
+}
+table{
+    margin: 0 auto;
+    }
